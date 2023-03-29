@@ -1,0 +1,25 @@
+A megrendelő igényei:
+Gyűjtsetek nevezetességeket:
+A nevezetesség neve, országa, városa
+Mindhárman gyűjtötök
+Fejenként 7 nevezetesség
+Ezeket egy fájlba írni:
+A fájl szerkezete:
+nevezetesség neve;ország neve;város neve
+És minden nevezetesség külön sorban
+1 csapat 1 ilyen fájl
+A githubon vezetitek a szokásos módon
+
+A program Python nyelven készüljön
+A program beolvassa a fájlból az adatokat egy alkalmas adatszerkezetbe
+A program egy menürendszert tár a felhasználó elé
+A menüpontok:
+1. nevezetességek listája
+2. Országot választ a felhasználó, és a program kiírja az azon országokban lévő nevezetességek nevét
+3. Várost választ a felhasználó, és a program kiírja a nevezetességek nevét és az ország nevét
+
+Fejlesztési lehetőségek kitalálása
+
+Mindenki csináljon Python kódolást
+
+
