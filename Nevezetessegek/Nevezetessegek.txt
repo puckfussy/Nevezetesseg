@@ -1,3 +1,4 @@
+Lacika:
 Budavári Palota;Magyarország;Budapest
 Walk Of Fame;Amerikai Egyesült Államok;Los Angeles
 Old Town Square;Csehország;Prága
@@ -5,6 +6,7 @@ Uspenski Cathedral;Helsinki;Finnország
 Christiansborg Palace;København;Dánia
 Yangmingshan National Park;Taipei City;Tajvan
 Kreml;Moszkva;Oroszország
+
 Vid:
 Conor Mcgregor;Dublin;Írország
 Jon Jones;New York;Amerikai Egyesült Államok
@@ -13,3 +15,13 @@ Dustin Porier;Louisiana;Amerikai Egyesült Államok
 Charles Oliveira;Paulo;Brazília
 Elon Musk;Pretoria;Dél-Afrika
 Andrew Tate;Washington D.C.;Amerikai Egyesült Államok
+
+Nikolett:
+Golden Gate híd, San Francisco, USA
+Alcatraz, San Francisco közelében, USA
+Szent Péter bazilika, Róma, Olaszország
+Zájed sejk-mecset, Abu Dhabi, Egyesült Arab Emírségek
+Taj Mahal. Agra, India
+Machu Picchu, Peru
+Angkorvat, Angkor, Kambodzsa
+
