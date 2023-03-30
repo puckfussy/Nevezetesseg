@@ -1,3 +1,4 @@
+Lacika:
 Budavári Palota;Magyarország;Budapest
 Walk Of Fame;Amerikai Egyesült Államok;Los Angeles
 Old Town Square;Csehország;Prága
@@ -5,3 +6,11 @@ Uspenski Cathedral;Helsinki;Finnország
 Christiansborg Palace;København;Dánia
 Yangmingshan National Park;Taipei City;Tajvan
 Kreml;Moszkva;Oroszország
+Nikolett:
+Golden Gate híd, San Francisco, USA
+Alcatraz, San Francisco közelében, USA
+Szent Péter bazilika, Róma, Olaszország
+Zájed sejk-mecset, Abu Dhabi, Egyesült Arab Emírségek
+Taj Mahal. Agra, India
+Machu Picchu, Peru
+Angkorvat, Angkor, Kambodzsa
